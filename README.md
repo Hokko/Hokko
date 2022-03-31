@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Reneil
-- 👀 I’m interested in Kotlin
+- 👀 I’m interested in playing some games, like EVE, POE or FFXIV, but now im focusing on learning Kotlin and hoping im do that greate
 - 🌱 I’m currently learning Kotlin
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
